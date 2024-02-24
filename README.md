@@ -1,2 +1,2 @@
 # linguagens-de-programacao
-Repositório criado para armazenas os exercícios avaliativos realizados na disciplina de Linguagens de programação, na qual estamos trabalhando com JavaScript. 
+Repositório criado para armazenar os exercícios avaliativos realizados na disciplina de Linguagens de Programação, na qual estamos trabalhando com JavaScript. 
